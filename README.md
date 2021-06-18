@@ -35,7 +35,21 @@ Testing
 4. cycling
 5. swimming
 
+
 **Photo**
 ![Winfred_Photo](https://pbs.twimg.com/media/EvdtF5ZWQAIHwJI.jpg)
 
 
+Name: **Israel Ebhohimen**
+
+Institution: **Samuel Adegboyega Universiity, Ogwa, Edo State, Nigeria**
+
+*Hobbies*
+1. Reading
+2. Cycling
+3. Cooking
+4. Playing chess
+5. Travelling
+
+**Photo**
+![Israel Ebhohimen](https://media-exp3.licdn.com/dms/image/C4D03AQGD-5hChD4BCA/profile-displayphoto-shrink_200_200/0/1571109184191?e=1629331200&v=beta&t=lpO3pJTp3qo7EcPz0lLjawLf0GXmR1L2cz76Y2t0XrQ)
