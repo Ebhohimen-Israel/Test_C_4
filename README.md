@@ -38,4 +38,18 @@ Testing
 **Photo**
 ![Winfred_Photo](https://pbs.twimg.com/media/EvdtF5ZWQAIHwJI.jpg)
 
+**Israel Ebhohimen**
+
+**Institution:** Samuel Adegboyega University, Ogwa, Edo State, Nigeria
+
+**Hobbies**
+1. Reading
+2. Learning
+3. Playing Scrabble
+4. Cycling
+5. Cooking
+
+**Photo**
+https://media-exp3.licdn.com/dms/image/C4D03AQGD-5hChD4BCA/profile-displayphoto-shrink_800_800/0/1571109184191?e=1629331200&v=beta&t=gFXcSbrFcjqROVnja-56g836rt5oKF_dhZ_qEI4uyug.jpg
+
 
